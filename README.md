@@ -74,6 +74,8 @@ Want to know more about my latest project on the mechanism of action prediction 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Xmen3em&theme=dark&hide_border=false)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Xmen3em&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 </div>
 
 <br/>

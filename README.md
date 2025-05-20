@@ -97,7 +97,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xmen3em&theme=github_dark)
 
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Xmen3em&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Xmen3em&theme=react-dark)](https://github.com/Xmen3em/github-readme-activity-graph)
  
 [![](https://github-readme-stats.vercel.app/api/top-langs?username=Xmen3em&show_icons=true&locale=en&layout=compact&theme=radical)]()  
 </div>

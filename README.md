@@ -1,112 +1,309 @@
 <div align="center">
-   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
-</div>
 
-<h1 align="center">Hi! 👋 I'm Abdelmonem Mohamed</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:6F42C1&height=180&section=header&text=Abdelmonem%20Mohamed&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20Agentic%20AI%20%E2%80%A2%20RAG%20%E2%80%A2%20Machine%20Learning&descAlignY=58&descSize=18&animation=fadeIn" />
 
-<h3 align="center">AI & Machine Learning Engineer | Building Intelligent Systems for Real-World Impact</h3>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+AI+systems+that+move+from+prototype+to+product;Agentic+AI+%7C+RAG+%7C+LLM+Applications;FastAPI+%7C+Vector+Search+%7C+MLOps;Applied+Machine+Learning+for+real-world+problems" alt="Typing SVG" />
+</a>
 
-<br>
+<br/>
 
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=Xmen3em&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
-
-# <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
-<be>
-
-🎓 I hold a `Bachelor's Degree` in [`Computer Science` from Minufiya University](https://www.menofia.edu.eg/Home/en).
-
-🤖 I work as an `AI Engineer` with a strong focus on `Machine Learning`, `Deep Learning`, and `Natural Language Processing`.
-
-🌍 I deliver `AI solutions remotely` through platforms like `Upwork`, specializing in `NLP`, `transformers`, and `LLMs`.
-
-💼 Successfully completed multiple `freelance projects`, applying tools like `Hugging Face`, `Transformers`, and `Scikit-learn`.
-
-🔬 Passionate about applying AI to solve real-world problems and build smart applications.
-
-🚀 Currently working on `LLM-powered apps`, `Conversational AI`, and `generative AI projects`.
-
-🧠 Constantly learning and experimenting with new `AI models`, `frameworks`, and `tech stacks`.
-
-📬 Open to `job opportunities`, `freelance gigs`, and `exciting collaborations` — [here's my Resume](https://drive.google.com/drive/folders/1VcbhhvA_fkMIAUdOJAm5XLjNWjNdqUCv?usp=sharing).
-
-<br>
-
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
-<p align="center">
-	<a href="mailto:abdelmoneimmohamedrehab@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/Xmen3em"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://wa.me/+201021840176"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-	<a href="https://www.linkedin.com/in/abdelmoneim77/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/ABDO0REHAB/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/abdelmoneim404/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-</p>
-
-## 🛠️ My Skills
-
-<div align="center">
-
-#### **🤖 AI & Machine Learning**
-[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/) [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/) [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org/) [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFC107?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/) [![Transformers](https://img.shields.io/badge/Transformers-F4D03F?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/transformers/) [![LangChain](https://img.shields.io/badge/LangChain-00ADD8?style=for-the-badge&logo=python&logoColor=white)](https://www.langchain.com/) [![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
-
-#### **📊 Data Science & NLP**
-[![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/) [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/) [![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/) [![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)](https://spacy.io/) [![NLTK](https://img.shields.io/badge/NLTK-00A55E?style=for-the-badge&logo=python&logoColor=white)](https://www.nltk.org/) [![Gensim](https://img.shields.io/badge/Gensim-FF4500?style=for-the-badge&logo=python&logoColor=white)](https://radimrehurek.com/gensim/)
-
-#### **🧰 Tools, Deployment & MLOps**
-[![Streamlit](https://img.shields.io/badge/Streamlit-darkred?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/) [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/) [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/) [![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/) [![MLOps](https://img.shields.io/badge/MLOps-%2300f.svg?style=for-the-badge&logo=artificial-intelligence&logoColor=white)](https://ml-ops.org/) 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-    &emsp;
-    <a href="#"><img alt="Mark Down" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
-
-#### **🚡 Operating Systems**
-
-<p align="center">
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
-  </p>
+<a href="https://github.com/Xmen3em">
+  <img src="https://komarev.com/ghpvc/?username=Xmen3em&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" alt="Profile views" />
+</a>
+<a href="https://github.com/Xmen3em?tab=followers">
+  <img src="https://img.shields.io/github/followers/Xmen3em?style=for-the-badge&logo=github&label=Followers&color=238636" alt="GitHub followers" />
+</a>
+<a href="https://www.linkedin.com/in/abdelmoneim77/">
+  <img src="https://img.shields.io/badge/LinkedIn-Abdelmonem%20Mohamed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:abdelmoneimmohamedrehab@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
 </div>
 
 ---
 
-### 📊 GitHub Stats
+## 👨‍💻 About Me
+
+I’m an **AI Engineer** focused on building practical, production-oriented intelligent systems — from machine learning models to **RAG pipelines, AI agents, LLM applications, retrieval systems, and AI-enabled backends**.
+
+* 🤖 Building with **Agentic AI, RAG, LLMs, context engineering, and multi-agent workflows**
+* 🧠 Strong foundation in **Machine Learning, Deep Learning, NLP, and time-series forecasting**
+* ⚙️ Developing AI services with **Python, FastAPI, PostgreSQL, Redis, vector databases, and Docker**
+* 🔎 Working with **hybrid search, embeddings, document ingestion, evaluation, and grounded generation**
+* 🚀 Interested in **production AI architecture, MLOps, observability, security, and reliable AI systems**
+* 🎓 B.Sc. in **Computer Science — Bioinformatics**, Menoufia University
+* 🤝 Open to **AI Engineer / Machine Learning Engineer opportunities, freelance work, and technical collaborations**
 
 <div align="center">
 
+<a href="https://drive.google.com/drive/folders/1VcbhhvA_fkMIAUdOJAm5XLjNWjNdqUCv?usp=sharing">
+  <img src="https://img.shields.io/badge/View%20My%20Resume-111827?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
+</a>
 
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Xmen3em&theme=dark&hide_border=false)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xmen3em&theme=github_dark)
-
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Xmen3em&theme=react-dark)](https://github.com/Xmen3em/github-readme-activity-graph)
- 
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=Xmen3em&show_icons=true&locale=en&layout=compact&theme=radical)]()  
 </div>
 
 ---
 
-### ✍️ Random Dev Quote
+## 🧩 What I Build
+
+<table>
+<tr>
+<td width="25%" align="center">
+<h3>🤖 Agentic AI</h3>
+<p>Multi-agent workflows, tool use, memory, orchestration, context engineering, and reliable agent execution.</p>
+</td>
+<td width="25%" align="center">
+<h3>📚 RAG Systems</h3>
+<p>Document ingestion, embeddings, hybrid retrieval, vector search, reranking, grounded generation, and evaluation.</p>
+</td>
+<td width="25%" align="center">
+<h3>🧠 Applied ML</h3>
+<p>Classification, forecasting, anomaly detection, NLP, deep learning, model evaluation, and practical ML APIs.</p>
+</td>
+<td width="25%" align="center">
+<h3>⚙️ AI Platforms</h3>
+<p>FastAPI services, SQL/vector storage, Dockerized systems, background pipelines, observability, and MLOps workflows.</p>
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔬 [AI ScholarLens](https://github.com/Xmen3em/AI-ScholarLens)
+
+**Production-style AI research & RAG platform**
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
+
+AI-focused arXiv ingestion, PDF parsing, PostgreSQL storage, hybrid retrieval, and an evolving grounded RAG architecture.
+
+**Focus:** Production RAG · Search · Data pipelines · Evaluation
+
+➡️ **[Explore Repository →](https://github.com/Xmen3em/AI-ScholarLens)**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 [Multi-Agent Research Assistant](https://github.com/Xmen3em/Multi-agent-research-assistant)
+
+**Context Engineering & Multi-Agent Research System**
+
+<img src="https://img.shields.io/badge/CrewAI-FF5A5F?style=flat-square"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square"/>
+<img src="https://img.shields.io/badge/Zep-6F42C1?style=flat-square"/>
+<img src="https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white"/>
+
+Parallel agents gather context from RAG, memory, web, and arXiv before evaluation and synthesis.
+
+**Focus:** Agents · Memory · RAG · Context Engineering
+
+➡️ **[Explore Repository →](https://github.com/Xmen3em/Multi-agent-research-assistant)**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🧰 [Harness Kit](https://github.com/Xmen3em/harness-kit)
+
+**Harness Engineering for Coding Agents**
+
+<img src="https://img.shields.io/badge/Claude_Code-191919?style=flat-square"/>
+<img src="https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai"/>
+<img src="https://img.shields.io/badge/MCP-6F42C1?style=flat-square"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+
+Control layer for turning rough coding requests into bounded, testable, verification-driven implementation workflows.
+
+**Focus:** AI Engineering · Agent Reliability · Verification · MCP
+
+➡️ **[Explore Repository →](https://github.com/Xmen3em/harness-kit)**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📄 [Ask PDF](https://github.com/Xmen3em/Ask-Pdf)
+
+**Conversational Retrieval-Augmented Generation**
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain"/>
+<img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta"/>
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+
+Conversational RAG application for querying PDFs using semantic retrieval, embeddings, and LLM generation.
+
+**Focus:** RAG · Embeddings · Vector Search · LLM Apps
+
+➡️ **[Explore Repository →](https://github.com/Xmen3em/Ask-Pdf)**
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+### AI • LLM • Machine Learning
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" alt="AI and ML core stack" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/LangGraph-0D1117?style=for-the-badge&logo=graphql&logoColor=58A6FF" alt="LangGraph" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000000" alt="Hugging Face" />
+<img src="https://img.shields.io/badge/CrewAI-FF5A5F?style=for-the-badge&logo=probot&logoColor=white" alt="CrewAI" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+<img src="https://img.shields.io/badge/XGBoost-EC5528?style=for-the-badge&logo=apache&logoColor=white" alt="XGBoost" />
+<img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logo=lightning&logoColor=white" alt="LightGBM" />
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
 
 </div>
+
+### RAG • Search • Data
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis&theme=dark" alt="Databases" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="FAISS" />
+<img src="https://img.shields.io/badge/ChromaDB-FF6446?style=for-the-badge&logo=database&logoColor=white" alt="ChromaDB" />
+<img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white" alt="OpenSearch" />
+<img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+
+</div>
+
+### Backend • MLOps • Cloud
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,django,docker,azure,git,github,linux,ubuntu,vscode&theme=dark&perline=10" alt="Backend and DevOps stack" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow" />
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+
+</div>
+
+---
+
+## 🎯 Engineering Focus
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Agentic%20AI-Orchestration-6F42C1?style=for-the-badge" alt="Agentic AI" />
+<img src="https://img.shields.io/badge/RAG-Grounded%20Generation-1F6FEB?style=for-the-badge" alt="RAG" />
+<img src="https://img.shields.io/badge/Context%20Engineering-Reliable%20Agents-238636?style=for-the-badge" alt="Context Engineering" />
+<img src="https://img.shields.io/badge/MLOps-Production%20ML-F78166?style=for-the-badge" alt="MLOps" />
+<img src="https://img.shields.io/badge/AI%20Backend-FastAPI-009688?style=for-the-badge" alt="AI Backend" />
+
+</div>
+
+<br/>
+
+> I care about the full engineering path: **data → retrieval/modeling → API → evaluation → deployment → monitoring**.
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Xmen3em&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" alt="GitHub stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xmen3em&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top languages" />
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Xmen3em&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF" alt="GitHub streak" />
+
+<br/>
+
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xmen3em&theme=github_dark" alt="GitHub profile summary" />
+
+</div>
+
+---
+
+## 📈 Engineering Activity
+
+<div align="center">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xmen3em&theme=github_dark"
+  width="100%"
+  alt="GitHub Profile Summary"
+/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/Xmen3em?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Xmen3em?tab=stars">
+  <img src="https://img.shields.io/badge/Open%20Source%20Journey-1F6FEB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="mailto:abdelmoneimmohamedrehab@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-abdelmoneim-DB4437?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://www.linkedin.com/in/abdelmoneim77/">
+  <img src="https://img.shields.io/badge/LinkedIn-abdelmoneim77-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/Xmen3em">
+  <img src="https://img.shields.io/badge/GitHub-Xmen3em-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<br/><br/>
+
+<b>💡 Building something interesting in AI, RAG, agents, or machine learning?</b><br/>
+I'm always open to technical conversations, collaborations, and challenging AI engineering opportunities.
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6F42C1,50:1F6FEB,100:0D1117&height=110&section=footer" />

@@ -242,25 +242,6 @@ Conversational RAG application for querying PDFs using semantic retrieval, embed
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Xmen3em&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" alt="GitHub stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xmen3em&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top languages" />
-
-<br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=Xmen3em&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF" alt="GitHub streak" />
-
-<br/>
-
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xmen3em&theme=github_dark" alt="GitHub profile summary" />
-
-</div>
-
----
-
-## 📈 Engineering Activity
-
-<div align="center">
-
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xmen3em&theme=github_dark"
   width="100%"
